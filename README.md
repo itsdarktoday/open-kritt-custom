@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v1.2-brightgreen" alt="Version">
+</p>
+
 #  Open Kritt Custom
 
 > A customized version of Open Kritt with support for custom AI providers and OpenAI-compatible APIs.

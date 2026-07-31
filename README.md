@@ -30,15 +30,6 @@ The primary goal of this fork is to make model integration more flexible by allo
 - Organize and switch between available models
 - Support custom model catalogs
 
-## 💻 Automatic CLI Detection
-
-- Automatically detects existing **Claude Code** installations
-- Automatically detects existing **Codex CLI** installations
-- Reuses existing local authentication
-- Eliminates manual CLI configuration for supported providers
-
----
-
 # 🚀 Getting Started
 
 ## 📦 Prerequisites
@@ -149,4 +140,4 @@ This project is based on the original **Open Kritt** project.
 
 ### 📜 Note
 
-This is a custom version of **Open Kritt v1.1.0**.
+This is a custom version of **Open Kritt v1.2.0**.

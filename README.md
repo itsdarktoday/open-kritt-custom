@@ -47,7 +47,7 @@ Before getting started, ensure the following are installed on your system:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/nishanm15/open-kritt-custom.git
+git clone https://github.com/itsdarktoday/open-kritt-custom.git
 cd open-kritt-custom
 ```
 
